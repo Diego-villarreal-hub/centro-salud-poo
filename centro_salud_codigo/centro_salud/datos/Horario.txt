@@ -1,0 +1,3 @@
+101|Lun|8|True
+101|Lun|9|False
+101|Mar|10|True
